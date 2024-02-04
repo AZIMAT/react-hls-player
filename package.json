@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Component for video playback using HLS.js in react",
   "main": "./dist/index.js",
+  "type": "module",
   "types": "./dist",
   "files": ["./dist/*"],
   "scripts": {
